@@ -1,0 +1,133 @@
+# Rhino
+newmtl WhiteBrick
+Ka 0.0000 0.0000 0.0000
+Kd 0.9804 0.9804 0.9804
+Ks 1.0000 1.0000 1.0000
+Tf 1.0000 1.0000 1.0000
+d 1.0000
+Ns 0.0000
+Ni 1.0000
+map_Kd finnish-grey-brick-flemish-4075-in-architextures.jpg
+newmtl DarkBrick
+Ka 0.0000 0.0000 0.0000
+Kd 0.9804 0.9804 0.9804
+Ks 1.0000 1.0000 1.0000
+Tf 1.0000 1.0000 1.0000
+d 1.0000
+Ns 0.0000
+Ni 1.0000
+map_Kd finnish-grey-brick-flemish-4075-in-architextures_1.jpg
+newmtl Concrete
+Ka 0.0000 0.0000 0.0000
+Kd 0.9804 0.9804 0.9804
+Ks 1.0000 1.0000 1.0000
+Tf 1.0000 1.0000 1.0000
+d 1.0000
+Ns 0.0000
+Ni 1.0000
+map_Kd travertine-7874-in-architextures.jpg
+newmtl Wood
+Ka 0.0000 0.0000 0.0000
+Kd 0.9804 0.9804 0.9804
+Ks 1.0000 1.0000 1.0000
+Tf 1.0000 1.0000 1.0000
+d 1.0000
+Ns 0.0000
+Ni 1.0000
+map_Kd walnut-12598-in-architextures.jpg
+newmtl Screen Shot 2024-05-02 at 12.18.19 PM
+Ka 0.0000 0.0000 0.0000
+Kd 1.0000 1.0000 1.0000
+Ks 1.0000 1.0000 1.0000
+Tf 1.0000 1.0000 1.0000
+d 1.0000
+Ns 0.0000
+Ni 1.0000
+map_Kd Screen Shot 2024-05-02 at 12.18.19 PM.png
+newmtl Default
+Ka 0.0000 0.0000 0.0000
+Kd 0.9804 0.9804 0.9804
+Ks 1.0000 1.0000 1.0000
+Tf 1.0000 1.0000 1.0000
+d 1.0000
+Ns 0.0000
+Ni 1.0000
+newmtl ibf71-la-creazione-di-adamo-ok (1)
+Ka 0.0000 0.0000 0.0000
+Kd 1.0000 1.0000 1.0000
+Ks 1.0000 1.0000 1.0000
+Tf 1.0000 1.0000 1.0000
+d 1.0000
+Ns 0.0000
+Ni 1.0000
+map_Kd ibf71-la-creazione-di-adamo-ok.jpg
+newmtl Screen Shot 2024-05-02 at 12.15.53 PM
+Ka 0.0000 0.0000 0.0000
+Kd 1.0000 1.0000 1.0000
+Ks 1.0000 1.0000 1.0000
+Tf 1.0000 1.0000 1.0000
+d 1.0000
+Ns 0.0000
+Ni 1.0000
+map_Kd Screen Shot 2024-05-02 at 12.15.53 PM.png
+newmtl Screen Shot 2024-05-02 at 11.57.35 AM
+Ka 0.0000 0.0000 0.0000
+Kd 1.0000 1.0000 1.0000
+Ks 1.0000 1.0000 1.0000
+Tf 1.0000 1.0000 1.0000
+d 1.0000
+Ns 0.0000
+Ni 1.0000
+map_Kd Screen Shot 2024-05-02 at 11.57.35 AM.png
+newmtl Screen Shot 2024-05-02 at 12.12.27 PM
+Ka 0.0000 0.0000 0.0000
+Kd 1.0000 1.0000 1.0000
+Ks 1.0000 1.0000 1.0000
+Tf 1.0000 1.0000 1.0000
+d 1.0000
+Ns 0.0000
+Ni 1.0000
+map_Kd Screen Shot 2024-05-02 at 12.12.27 PM.png
+newmtl Screen Shot 2024-05-02 at 12.14.06 PM
+Ka 0.0000 0.0000 0.0000
+Kd 1.0000 1.0000 1.0000
+Ks 1.0000 1.0000 1.0000
+Tf 1.0000 1.0000 1.0000
+d 1.0000
+Ns 0.0000
+Ni 1.0000
+map_Kd Screen Shot 2024-05-02 at 12.14.06 PM.png
+newmtl Greece_column1.002
+Ka 0.0000 0.0000 0.0000
+Kd 1.0000 1.0000 1.0000
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+Ni 1.0000
+map_Kd Greece_column1_u0_v0_diffuse.jpg
+newmtl Diane___la_biche_LOD1
+Ka 1.0000 1.0000 1.0000
+Kd 1.0000 1.0000 1.0000
+Ks 0.0000 0.0000 0.0000
+Tf 1.0000 1.0000 1.0000
+d 1.0000
+Ns 0.0000
+Ni 1.0000
+newmtl stele_attique_fragment_-_CleanUp_-_VeryLowPoly_Material_u1_v1
+Ka 1.0000 1.0000 1.0000
+Kd 1.0000 1.0000 1.0000
+Ks 1.0000 1.0000 1.0000
+Tf 1.0000 1.0000 1.0000
+d 1.0000
+Ns 0.0000
+Ni 1.0000
+map_Kd stele_attique_fragment_-_CleanUp_-_VeryLowPoly_u1_v1.jpg
+newmtl Plaster
+Ka 0.0000 0.0000 0.0000
+Kd 0.4118 0.4118 0.4118
+Ks 1.0000 1.0000 1.0000
+Tf 1.0000 1.0000 1.0000
+d 1.0000
+Ns 0.0000
+Ni 1.0000
